@@ -1,4 +1,4 @@
-# RitouseikiOni
+# ritouseikioni
 Zalgo auto generator web application
 
 Automated version Tchouky's zalgo's text generator
