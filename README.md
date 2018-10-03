@@ -3,7 +3,7 @@
     <a href="https://raw.githubusercontent.com/johnjimysom/ritouseikioni/master/LICENSE.md" alt="WTFPL License">
         <img src="https://img.shields.io/badge/license-WTFPL-ff69b4.svg"/></a>
     <a href="#version">
-        <img src="https://img.shields.io/badge/version-1.0-lightblue.svg"
+        <img src="https://img.shields.io/badge/version-1.9-lightblue.svg"
             alt="version"></a>
     <a href=https://bureidake.github.io/">
         <img src="https://img.shields.io/badge/離島棲鬼-working-green.svg"
